@@ -1,10 +1,10 @@
-<h1> Primeiro desafio Rocketseat Ignite </h1>
+<h1> To.Do - Desafio Rocketseat 🚀 </h1>
 
 <p> Um projetino feito pra conseguir organizar suas tarefas do dia. </p>
 
 <h3> Status: Finalizado ❗ </h3>
 
-<h4> tecnologias: </h4>
+<h4> Tecnologias: </h4>
 
 + ReactJs
 + Typescript
